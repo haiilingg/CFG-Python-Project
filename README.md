@@ -8,7 +8,7 @@
 3. [Certificate of Completion](https://github.com/haiilingg/CFG-Python-Project/blob/main/CFG%20Python%20Certificate-%20HLT.pdf)
 
 # Theme: EDAMAM Recipe Search API
-This was the Python Project I completed for Code First Girl's final presentation for the Python Kickstarter Course, utilising EDAMAM's API to search for recipes by inputting the desired ingredients.
+This was the Python Project I completed for Code First Girl's final presentation for the Python Kickstarter Course, utilising [EDAMAM's API](https://developer.edamam.com/recipe-demo) to search for recipes by inputting the desired ingredients.
 ![CFG Python - Edamam API](https://github.com/haiilingg/CFG-Python-Project/assets/130296433/d6d504eb-b93c-49b1-b22c-aad49a8e8066)
 
 # Project Overview
