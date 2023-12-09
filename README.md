@@ -3,7 +3,7 @@
 
    [Python Code 2](https://github.com/haiilingg/CFG-Python-Project/blob/main/Code%20to%20check%20if%20my%20friend%20is%20allergic%20to%20this%20food.py)
 
-3. [Presentation Slides](https://github.com/haiilingg/CFG-Python-Project/blob/main/Python-CFG%20presentation%20slide.pdf)
+2. [Presentation Slides](https://github.com/haiilingg/CFG-Python-Project/blob/main/Python-CFG%20presentation%20slide.pdf)
 
 3. [Certificate of Completion](https://github.com/haiilingg/CFG-Python-Project/blob/main/CFG%20Python%20Certificate-%20HLT.pdf)
 
@@ -16,4 +16,4 @@ I'm planning to bake a cake for my friend's birthday. However, there are certain
 
 I'll then use Edamam's API to help me search for cake recipes that not only taste delicious but also accommodate my friend's food allergies. By entering the required ingredients, this function will return a list of recipes that use the entered ingredients.
 
-
+Read more [HERE](https://github.com/haiilingg/CFG-Python-Project/blob/main/Python-CFG%20presentation%20slide.pdf)
